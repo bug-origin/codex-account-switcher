@@ -28,12 +28,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/oepnok/codex-account-switcher.git"
+    "url": "git+https://github.com/bug-origin/codex-account-switcher.git"
   },
   "bugs": {
-    "url": "https://github.com/oepnok/codex-account-switcher/issues"
+    "url": "https://github.com/bug-origin/codex-account-switcher/issues"
   },
-  "homepage": "https://github.com/oepnok/codex-account-switcher#readme",
+  "homepage": "https://github.com/bug-origin/codex-account-switcher#readme",
   "engines": {
     "node": ">=18"
   },
