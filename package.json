@@ -1,0 +1,43 @@
+{
+  "name": "codex-account-switcher",
+  "version": "0.1.0",
+  "description": "Switch between multiple Codex config and auth profiles from the command line.",
+  "type": "commonjs",
+  "bin": {
+    "codex-switch": "./bin/codex-switch.js",
+    "codex-account": "./bin/codex-switch.js",
+    "codex-profile": "./bin/codex-switch.js"
+  },
+  "files": [
+    "bin",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "test": "node --test",
+    "pack:dry-run": "npm pack --dry-run"
+  },
+  "keywords": [
+    "codex",
+    "openai",
+    "cli",
+    "profile",
+    "account-switcher"
+  ],
+  "author": "zhiqing6 <zhiqing.ma@wahool.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhiqing6/codex-account-switcher.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zhiqing6/codex-account-switcher/issues"
+  },
+  "homepage": "https://github.com/zhiqing6/codex-account-switcher#readme",
+  "engines": {
+    "node": ">=18"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
