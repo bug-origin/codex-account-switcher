@@ -12,13 +12,13 @@ It is designed for people who use both:
 ## Install
 
 ```sh
-npm install -g codex-account-switcher
+npm install -g @oepnok/codex-account-switcher
 ```
 
 Or run from a checkout:
 
 ```sh
-git clone https://github.com/zhiqing6/codex-account-switcher.git
+git clone https://github.com/oepnok/codex-account-switcher.git
 cd codex-account-switcher
 npm install -g .
 ```
@@ -146,6 +146,6 @@ git init
 git add .
 git commit -m "Initial release"
 git branch -M main
-git remote add origin git@github.com:<user>/codex-account-switcher.git
+git remote add origin git@github.com:oepnok/codex-account-switcher.git
 git push -u origin main
 ```
