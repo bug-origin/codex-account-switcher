@@ -4,9 +4,9 @@
   "description": "Switch between multiple Codex config and auth profiles from the command line.",
   "type": "commonjs",
   "bin": {
-    "codex-switch": "./bin/codex-switch.js",
-    "codex-account": "./bin/codex-switch.js",
-    "codex-profile": "./bin/codex-switch.js"
+    "codex-switch": "bin/codex-switch.js",
+    "codex-account": "bin/codex-switch.js",
+    "codex-profile": "bin/codex-switch.js"
   },
   "files": [
     "bin",
