@@ -12,7 +12,7 @@ It is designed for people who use both:
 ## Install
 
 ```sh
-npm install -g @oepnok/codex-account-switcher
+npm install -g @bug-winston/codex-account-switcher
 ```
 
 Or run from a checkout:

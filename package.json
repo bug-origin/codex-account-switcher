@@ -1,5 +1,5 @@
 {
-  "name": "@oepnok/codex-account-switcher",
+  "name": "@bug-winston/codex-account-switcher",
   "version": "0.1.0",
   "description": "Switch between multiple Codex config and auth profiles from the command line.",
   "type": "commonjs",
